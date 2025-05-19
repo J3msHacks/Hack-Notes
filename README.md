@@ -1,6 +1,4 @@
-Repositorio de apuntes acerca de todo tipo de tecnicas de Hacking, Pentesting y Red Team que fui y voy recolectando, espero les sirva.
-                                                                                 
-                                                                                 
+Repositorio de apuntes acerca de todo tipo de tecnicas de Hacking, Pentesting y Red Team que fui y voy recolectando, espero les sirva.     
           JJJJJJJJJJJ 333333333333333                                            
           J:::::::::J3:::::::::::::::33                                          
           J:::::::::J3::::::33333::::::3                                         
@@ -16,12 +14,4 @@ J::::::J   J::::::J              3:::::3m::::m   m::::m   m::::mssssss   s:::::s
 J:::::::JJJ:::::::J  3333333     3:::::3m::::m   m::::m   m::::ms:::::ssss::::::s
  JJ:::::::::::::JJ   3::::::33333::::::3m::::m   m::::m   m::::ms::::::::::::::s 
    JJ:::::::::JJ     3:::::::::::::::33 m::::m   m::::m   m::::m s:::::::::::ss  
-     JJJJJJJJJ        333333333333333   mmmmmm   mmmmmm   mmmmmm  sssssssssss    
-                                                                                 
-                                                                                 
-                                                                                 
-                                                                                 
-                                                                                 
-                                                                                 
-                                                                            
-Anjhelo
+     JJJJJJJJJ        333333333333333   mmmmmm   mmmmmm   mmmmmm  sssssssssss
