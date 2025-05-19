@@ -2,11 +2,11 @@ Para poder realizar osint en twitter podemos utilizar en el buscador palabras cl
 "from:" "to:" "geocode:", entre otros que nos permiten encontrar los twits de las personas o palabras especificas que se hayan utilizado.
 Por otra parte tambien existe el buscador avanzado que podemos utilizar en modo grafico que nos ayuda a encontrar los twits de manera mas rapida.
 
-Busqueda <desde>
+Busqueda <<desde>>
 
 ![Diagrama explicativo](./imagen1.png)
 
-Busqueda <hacia>
+Busqueda <<hacia>>
 
 ![Diagrama explicativo](./imagen2.png)
 
@@ -29,6 +29,7 @@ Si tenemos errores en la instalacion luego de haberlo instalado de github hacemo
 Y con esto ya podemos utilizar twint.
 
 ============================================================================================
+
 Tambien podemos buscar informacion en las siguinentes paginas:
 =============================================================
 -> https://socialbearing.com Podemos encontrar la informacion publicada en twitter, estadisticas, colaboradores, etc. en la pagina.
