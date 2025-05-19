@@ -2,3 +2,6 @@ En la pagina wigle.net podemos realizar las busquedas de aparatos inalambricos q
 https://wigle.net
 
 ![Diagrama explicativo](./imagen1.png)
+
+Buscando una zona en particular
+![Diagrama explicativo](./imagen1.png)
