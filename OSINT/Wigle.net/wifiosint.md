@@ -4,4 +4,5 @@ https://wigle.net
 ![Diagrama explicativo](./imagen1.png)
 
 Buscando una zona en particular
+
 ![Diagrama explicativo](./imagen2.png)
