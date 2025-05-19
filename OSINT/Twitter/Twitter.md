@@ -1,5 +1,6 @@
 Para poder realizar osint en twitter
-==================================== podemos utilizar en el buscador palabras claves como en google hacking
+==================================== 
+podemos utilizar en el buscador palabras claves como en google hacking
 "from:" "to:" "geocode:", entre otros que nos permiten encontrar los twits de las personas o palabras especificas que se hayan utilizado.
 Por otra parte tambien existe el buscador avanzado que podemos utilizar en modo grafico que nos ayuda a encontrar los twits de manera mas rapida.
 
@@ -16,6 +17,7 @@ Busquedas avanzadas en Twitter
 ![Diagrama explicativo](./imagen3.png)
 
 ===========================================================================================
+
 TWINT
 =====
 Con esta herramienta buscar informacion acerca de twits realizados por un usuario y filtrar por contenido (por ejemplo)
