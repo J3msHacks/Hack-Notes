@@ -28,7 +28,7 @@ Si tenemos errores en la instalacion luego de haberlo instalado de github hacemo
  
 ```pip3 install --upgrade -e git+https://github.com/twintproject/twint.git@origin/master#egg=twint```</pre>
  
-<pre> ```pip3 install --upgrade aiohttp_socks``` </pre>
+```pip3 install --upgrade aiohttp_socks```
 
 ![Diagrama explicativo](./imagen5.png)
 
