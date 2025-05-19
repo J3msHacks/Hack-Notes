@@ -26,9 +26,9 @@ Con esta herramienta buscar informacion acerca de twits realizados por un usuari
 
 Si tenemos errores en la instalacion luego de haberlo instalado de github hacemos lo siguiente
  
- pip3 install --upgrade -e git+https://github.com/twintproject/twint.git@origin/master#egg=twint
+ ```pip3 install --upgrade -e git+https://github.com/twintproject/twint.git@origin/master#egg=twint```
  
- pip3 install --upgrade aiohttp_socks
+ ```pip3 install --upgrade aiohttp_socks```
 
 ![Diagrama explicativo](./imagen5.png)
 
