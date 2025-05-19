@@ -30,6 +30,7 @@ Y con esto ya podemos utilizar twint.
 
 ============================================================================================
 Tambien podemos buscar informacion en las siguinentes paginas:
+=============================================================
 -> https://socialbearing.com Podemos encontrar la informacion publicada en twitter, estadisticas, colaboradores, etc. en la pagina.
 
 -> https://twitonomy.com Aqui podemos ver los tiempos en los que se publican mas.
