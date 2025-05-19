@@ -1,4 +1,4 @@
-Para poder realizar osint en twitter
+Para poder realizar OSINT en twitter
 ==================================== 
 Podemos utilizar en el buscador palabras claves como en google hacking
 "from:" "to:" "geocode:", entre otros que nos permiten encontrar los twits de las personas o palabras especificas que se hayan utilizado.
