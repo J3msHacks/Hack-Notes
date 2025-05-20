@@ -2,9 +2,11 @@ PhoneInfoga
 ===========
 
 Con la herramienta phoneinfoga podemos realizar la busqueda de informacion de numeros de telefono.
+
 USO: ./phoneinfoga scan -n +591 77777777
 
 Para ver en modo grafico la tool hacemos:
+
 phoneinfoga server -p 8080 y abrimos el navegador en localhost:8080 y obtenemos la version GUI.
 
 ![Diagrama explicativo](./imagen1.png)
