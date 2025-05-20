@@ -1,3 +1,5 @@
+CodeOfANinja
+============
 Al igual que en otras redes sociales lo principal es poder recolectar informacion viendo las publicaciones de las personas que se estan investigando y podemos a la vez ayudarnos con otras paginas utiles como las siguientes.
 https://codeofaninja.com en donde encontramos el user ID de un usuario de instagram.
 
