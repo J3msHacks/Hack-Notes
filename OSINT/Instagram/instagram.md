@@ -16,6 +16,10 @@ Podemos descargar las imagenes de una cuenta incluso aunque en la aplicacion de 
 https://imginn.com 
 
 =============================================================
+
+Instagram OSINT
+===============
+
 Instagramosint lo podemos encontrar en github y nos sirve tambien para recolectar informacion de instagram
 https://github.com/sc1341/InstagramOSINT
 
