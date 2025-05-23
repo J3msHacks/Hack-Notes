@@ -46,6 +46,7 @@ Ffuf
 ===========
 
 Para buscar subdominios con ffuf hacemos
+
 ffuf -w /usr/share/wordlists/seclists/Discovery/DNS/ subdomains-top1million-110000.txt -u http://10.0.2.6 -H "Host: FUZZ.mywaf.nyx" -H "User-Agent: Netscape" -fc 302
 
 ![Diagrama explicativo](./imagen7.png)
