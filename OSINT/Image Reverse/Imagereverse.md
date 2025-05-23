@@ -8,6 +8,9 @@ https://images.google.com/
 
 =============================================================
 
+TinEye
+======
+
 Tineye es otra opcion gratuita para buscar en internet --> https://tineye.com/
 
 ![Diagrama explicativo](./imagen2.png)
