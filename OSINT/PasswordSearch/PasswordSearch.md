@@ -2,7 +2,7 @@ Dehashed
 ========
 
 Vemos la forma de recuperar contraseñas que han sido parte de breaches de seguridad.
-Primero y aunque de pago es una buena opcion consultar en dehashed.com --> 
+Primero y aunque de pago es una buena opcion consultar en dehashed.com
 
 ![Diagrama explicativo](./imagen1.png)
 
@@ -20,6 +20,6 @@ LeakCheck - https://leakcheck.io/
 
 SnusBase - https://snusbase.com/
 
-Scylla.sh - https://scylla.sh/ --> No responde, es necesario buscar opciones semejantes
+Scylla.sh - https://scylla.sh/
 
 HaveIBeenPwned - https://haveibeenpwned.com/
