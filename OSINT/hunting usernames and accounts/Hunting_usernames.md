@@ -1,11 +1,11 @@
 HUNTING USERNAMES
 ================
+
 Para poder encontrar nombres de usuario y cuentas podemos hacerlo mediante las siguientes herramientas.
 
 Link: NameChk https://namechk.com/
 
 ![Diagrama explicativo](./image.png)
-
 =========================================================================
 
 WHATSMYNAME
@@ -13,8 +13,7 @@ WHATSMYNAME
 
 Link: https://whatsmyname.app/
 
-![Diagrama explicativo](./image 2.png)
-
+![Diagrama explicativo](./image2.png)
 =========================================================================
 
 NAMECHECKUP
@@ -22,4 +21,5 @@ NAMECHECKUP
 
 Link: NameCheckup - https://namecheckup.com/
 
-![Diagrama explicativo](./image 3.png)
+![Diagrama explicativo](./image3.png)
+
