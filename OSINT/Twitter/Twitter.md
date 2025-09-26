@@ -35,7 +35,7 @@ Si tenemos errores en la instalacion luego de haberlo instalado de github hacemo
 
 Y con esto ya podemos utilizar twint.
 
-=====================================================================================
+===================================================================================
 
 Tambien podemos buscar informacion en las siguinentes paginas:
 =============================================================
@@ -55,4 +55,5 @@ Tambien podemos buscar informacion en las siguinentes paginas:
 -> https://tweetdeck.twitter.com/ --> Informacion para hacer seguimiento a los twits realizados.
 
 ![Diagrama explicativo](./imagen6.png)
+
 
