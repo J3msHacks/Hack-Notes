@@ -4,6 +4,7 @@ Cuando no podemos reconocer la ubicacion, no tenemos datos EXIF u otra informaci
 
 ![Diagrama explicativo](./image.png)
 
-![Diagrama explicativo](./image 2.png)
+![Diagrama explicativo](./image2.png)
 
 =========================================================================
+
