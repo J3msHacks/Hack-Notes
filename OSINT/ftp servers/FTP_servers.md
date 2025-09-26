@@ -9,6 +9,7 @@ Link: https://www.searchftps.net/
 
 Buscamos una palabra clave y nos muestra los resultados
 
-![Diagrama explicativo](./image 2.png)
+![Diagrama explicativo](./image2.png)
+
 
 =========================================================================
