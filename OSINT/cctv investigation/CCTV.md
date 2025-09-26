@@ -7,7 +7,7 @@ Link: https://github.com/spyboy-productions/CamXploit
 
 ![Diagrama explicativo](./image.png)
 
-![Diagrama explicativo](./image 2.png)
+![Diagrama explicativo](./image2.png)
 
 =========================================================================
 
@@ -18,7 +18,7 @@ Esta es una pagina en donde se muestran las camaras que estan siendo expuestas a
 
 Link: https://search.censys.io/?q=
 
-![Diagrama explicativo](./image 3.png)
+![Diagrama explicativo](./image3.png)
 
 =========================================================================
 
@@ -29,10 +29,11 @@ Con routersploit podemos encontrar vulnerabilidades en equipos CCTV, routers y o
 
 Link: https://github.com/threat9/routersploit
 
-![Diagrama explicativo](./image 4.png)
+![Diagrama explicativo](./image4.png)
 
-![Diagrama explicativo](./image 5.png)
+![Diagrama explicativo](./image5.png)
 
-![Diagrama explicativo](./image 6.png)
+![Diagrama explicativo](./image6.png)
+
 
 =========================================================================
