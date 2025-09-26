@@ -11,6 +11,7 @@ USO: whatsmyname -u "usuario"
 ![Diagrama explicativo](./imagen1.png)
 
 ==========================================================
+
 SHERLOCK
 ========
 
@@ -19,8 +20,8 @@ https://github.com/sherlock-project/sherlock
 USO: sherlock "usuario"
 
 ![Diagrama explicativo](./imagen2.png)
-
 ==========================================================
+
 USERSEARCH
 ==========
 
@@ -29,5 +30,6 @@ Con usersearch.ai podemos buscar informacion acerca de muchas cosas, tiene la ve
 Link: https://usersearch.ai/
 
 ![Diagrama explicativo](./imagen3.png)
+
 
 
