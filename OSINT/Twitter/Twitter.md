@@ -1,5 +1,6 @@
 Para poder realizar OSINT en twitter
 ==================================== 
+
 Podemos utilizar en el buscador palabras claves como en google hacking
 "from:" "to:" "geocode:", entre otros que nos permiten encontrar los twits de las personas o palabras especificas que se hayan utilizado.
 Por otra parte tambien existe el buscador avanzado que podemos utilizar en modo grafico que nos ayuda a encontrar los twits de manera mas rapida.
@@ -16,7 +17,7 @@ Busquedas avanzadas en Twitter
 
 ![Diagrama explicativo](./imagen3.png)
 
-===========================================================================================
+====================================================================================
 
 TWINT
 =====
@@ -34,10 +35,11 @@ Si tenemos errores en la instalacion luego de haberlo instalado de github hacemo
 
 Y con esto ya podemos utilizar twint.
 
-============================================================================================
+=====================================================================================
 
 Tambien podemos buscar informacion en las siguinentes paginas:
 =============================================================
+
 -> https://socialbearing.com Podemos encontrar la informacion publicada en twitter, estadisticas, colaboradores, etc. en la pagina.
 
 -> https://twitonomy.com Aqui podemos ver los tiempos en los que se publican mas.
@@ -53,3 +55,4 @@ Tambien podemos buscar informacion en las siguinentes paginas:
 -> https://tweetdeck.twitter.com/ --> Informacion para hacer seguimiento a los twits realizados.
 
 ![Diagrama explicativo](./imagen6.png)
+
