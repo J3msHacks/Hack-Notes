@@ -1,5 +1,6 @@
 HUNTING BUSINESS
 ================
+
 Aqui veremos como utilizar google y linkedin para nuestros propositos de recolectar informacion acerca de una empresa y sus dependientes.
 
 En linkedin podemos realizar una busqueda y obtener mucha informacion acerca de la empresa y las personas que estan relacionadas a la misma.
@@ -12,6 +13,7 @@ En linkedin podemos realizar una busqueda y obtener mucha informacion acerca de 
 
 OPEN CORPORATES
 ===============
+
 Tambien podemos utilizar https://opencorporates.com/ para obtener informacion de las mismas empresas.
 
 ![Diagrama explicativo](./image3.png)
@@ -23,5 +25,6 @@ Link: https://www.indeed.com/jobs
 
 ![Diagrama explicativo](./image4.png)
 
-![Diagrama explicativo](./image 5.png)
+![Diagrama explicativo](./image5.png)
+
 
