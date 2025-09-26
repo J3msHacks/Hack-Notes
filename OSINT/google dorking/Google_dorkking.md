@@ -6,8 +6,9 @@ Aqui podemos insertar la URL respectiva y podemos ir revisando los resultados ac
 
 ![Diagrama explicativo](./image.png)
 
-![Diagrama explicativo](./image 2.png)
+![Diagrama explicativo](./image2.png)
 
-![Diagrama explicativo](./image 3.png)
+![Diagrama explicativo](./image3.png)
 
 =========================================================================
+
