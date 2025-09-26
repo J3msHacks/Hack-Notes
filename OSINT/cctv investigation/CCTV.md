@@ -7,8 +7,6 @@ Link: https://github.com/spyboy-productions/CamXploit
 
 ![Diagrama explicativo](./image.png)
 
-![Diagrama explicativo](./image2.png)
-
 =========================================================================
 
 INSECAM
@@ -37,3 +35,4 @@ Link: https://github.com/threat9/routersploit
 
 
 =========================================================================
+
